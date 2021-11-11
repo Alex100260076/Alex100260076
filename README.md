@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[Enlace a mi perfil](https://github.com/Alex100260076/Alex100260076)
+
 # CURRICULUM VITAE
 
 
